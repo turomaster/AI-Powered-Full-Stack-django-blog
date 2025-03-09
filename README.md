@@ -38,22 +38,16 @@ https://github.com/Nandhukriss/Public-Tech-Entertainment-Blog-using-Django/asset
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Nandhukriss/Public-Tech-Entertainment-Blog-using-Django.git
+    git clone https://github.com/turomaster/AI-Powered-Full-Stack-django-blog.git
     ```
 
-2. **Navigate to the project directory:**
-
-    ```bash
-    cd Public-Tech-Entertainment-Blog-using-Django
-    ```
-
-3. **Create a virtual environment (optional but recommended):**
+2. **Create a virtual environment (optional but recommended):**
 
     ```bash
     python -m venv venv
     ```
 
-4. **Activate the virtual environment:**
+3. **Activate the virtual environment:**
 
     - On Windows:
 
@@ -67,7 +61,7 @@ https://github.com/Nandhukriss/Public-Tech-Entertainment-Blog-using-Django/asset
       source venv/bin/activate
       ```
 
-5. **Install project dependencies using the requirements file:**
+4. **Install project dependencies using the requirements file:**
 
     ```bash
     pip install -r requirements.txt
